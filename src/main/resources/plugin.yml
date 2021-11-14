@@ -1,0 +1,10 @@
+name: PlayerSMP
+version: ${project.version}
+main: me.quared.playersmp.PlayerSMP
+api-version: 1.17
+prefix: PlayerSMP
+authors: [ Quared ]
+description: A system for players to create their own SMPs!
+commands:
+  smp:
+    description: SMP core command

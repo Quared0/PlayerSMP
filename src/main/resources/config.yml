@@ -1,0 +1,4 @@
+smp:
+  creating-smp: "&7Creating your SMP. This may take some time..."
+no-permission: "&cYou do not have permission to use this command."
+invalid-usage: "&cInvalid usage! Please use %usage%."
